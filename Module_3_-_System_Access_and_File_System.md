@@ -1,8 +1,4 @@
-# RHCSA Notes
-
-> [!note]
-> These are my notes from the Udemy courses I am currently studying. There isn't much as I'm a practical learner who is already mostly familiar with Linux and Red Hat related distros.
-> Regardless, there will be some notes, probably.
+# Module 3 - System Access and File System
 
 ## find vs locate
 
