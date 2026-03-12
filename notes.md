@@ -39,7 +39,7 @@ ln -s /home/user/file.txt /home/user/my-dir/soft-link
 #### Hardlink
 
 - Removing or renaming the linked file will not affect the hardlink.
-- Link will point to file inode.
+- Link will point to file inode, i.e. will have the same inode.
 - Hard links only work within the same partition.
 
 ```
